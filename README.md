@@ -19,7 +19,7 @@ List notes and features here<br />
 ### URL Live Webpage: 
 ### GitHub Repo:
 
-![ScreenShot](relative link to image)
+![ScreenShot](./assets/images/ScreenshotWebPage.jpg)
 
 
 ## Future improvement opportunities
